@@ -6,4 +6,5 @@
 
 - Utilizo este espaço para minha organição e comprtilhamento de meus projetos
 
-🐍💚_ AVADA KEDAVRA _
+
+🐍💚 _AVADA KEDAVRA_ 💚🐍
